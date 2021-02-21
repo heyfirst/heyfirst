@@ -1,5 +1,5 @@
 ## First Kanisorn Sutham
-Hello, I'm First (my nickname) and the rest of that is my full name - a developer at [ThoughtWorks Thailand](https://thoughtworks.com). In my spare time I practice software engineering technique via my pet project _(normally it is about 1~ hours in the morning before the work)_. I'm trying to turn my pet project to open source somedays 🚀 . I live in Bangkok, Thailand.
+Hello, I'm First (my nickname) and Kanisorn Sutham of that is my full name - A developer consultant at [ThoughtWorks Thailand](https://thoughtworks.com). In my spare time I practice software engineering technique via my pet project _(normally it is about fews hours in the morning before/after the work)_. I'm trying to turn my pet project to open source somedays 🚀 . I live in Bangkok, Thailand.
 
 <!--
 ## Latest writing
@@ -8,12 +8,11 @@ Hello, I'm First (my nickname) and the rest of that is my full name - a develope
 
 ## My facts
 - 👨🏻‍💻 I’m currently working on ThoughtWorks Thailand
-- 🌱 I’m currently learning about good practice in software engineering _(testing, s/w architecture, domain-modelling, etc..)_
-- 🗣 I'm currently share my experiences in my personal site (in english version!)
-- 💬 Ask me about Typescript, React, Python, Django, all about web & mobile app!
+- 🌱 I’m currently talking/sharing about practices in software engineering _(TDD, refactoring, legacy modernization, s/w architecture, etc..)_
+- 🗣 I'm currently share my experiences in my personal site (in english version soon!)
+- 💬 Ask me about Typescript, React, Python, Django, OOP languages, all about software engineering!
 - 🐈 I'm a cat person
 
 ## Get in touch
 - Personal site: https://heyfirst.co
-- Twitter: [https://twitter.com/heyfirst_______](https://twitter.com/heyfirst_______)
 - LinkedIn: https://www.linkedin.com/in/kanisorn-sutham/
