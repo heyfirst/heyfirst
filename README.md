@@ -1,5 +1,5 @@
-## Hey! 👋🏻 I'm Kanisorn Sutham
+## Hey! 👋🏻 I'm First Kanisorn Sutham
 
-A.k.a "First", I am a Thailand-based, front-end enthusiast, developer, consultant. Currently, I am working at ThoughtWorks Thailand. 
+I am a Thailand-based, front-end enthusiast, developer, consultant. I am currently working at **ThoughtWorks Thailand**.
 
-🌱 [heyfirst.co](https://heyfirst.co)
+🌱 Personal blog: [heyfirst.co](https://heyfirst.co)
