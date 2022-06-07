@@ -4,4 +4,4 @@ I am a full stack developer, front-end enthusiast, developer, consultant, cool t
 
 🌱 Personal blog: [heyfirst.co](https://heyfirst.co)
 
-![](https://api.heyfirst.co/github-view-counter/profile?x=jx)
+![](https://api.heyfirst.co/github-view-counter/profile)
