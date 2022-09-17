@@ -1,4 +1,4 @@
-## Hey! 👋🏻 I'm First Kanisorn Sutham
+## Hey! 👋🏻 I'm First Sutham
 
 I am a Thai full-stack engineer at [Unity Ads](https://unity.com/solutions/unity-ads) 🎮, also front-end enthusiast! Live in Helsinki, Finland 🇫🇮
 
