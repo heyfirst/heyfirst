@@ -6,4 +6,3 @@ I am a Thai full-stack engineer at [Unity Ads](https://unity.com/solutions/unity
 
 🎙 Twitter: [@heyfirst\_](https://twitter.com/heyfirst_)
 
-![](https://api.heyfirst.co/github-view-counter/profile)
