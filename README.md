@@ -1,8 +1,8 @@
 ## Hey! 👋🏻 I'm First Sutham
 
-I am a _senior_ full-stack engineer at [Unity Ads](https://unity.com/solutions/unity-ads) 🎮, I loves to code! Live in Helsinki, Finland 🇫🇮
+I am a software engineer at [Swarmia](https://swarmia.com), Live in Helsinki, Finland 🇫🇮
 
-🌱 Personal blog: [heyfirst.co](https://heyfirst.co) — *no updates for a years, have no time to write any new blogs 🥲*
+🌱 Personal blog: https://heyfirst.substack.com/
 
 🎙 Twitter: [@heyfirst\_](https://twitter.com/heyfirst_)
 
