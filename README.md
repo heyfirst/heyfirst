@@ -2,7 +2,7 @@
 
 I am a software engineer at [Swarmia](https://swarmia.com), Live in Helsinki, Finland 🇫🇮
 
-🌱 Personal blog: https://heyfirst.substack.com/
+🌱 Personal blog: https://heyfirst.co
 
 🎙 Twitter: [@heyfirst\_](https://twitter.com/heyfirst_)
 
